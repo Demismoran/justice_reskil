@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+    <head>
+	
+    </head>
+
+    <body> 
+	<div class= "top">
+	        <h1>BuddahHeads</h1>
+	        <p>created by Demis Moran</p>
+	</div>
+
+	<div class= "bar">
+		<a href= > Link</a>
+		<a href= > Link</a>
+		<a href= > Link</a>
+	</div>
+
+	<div class="info">
+
+	</div>
+
+    
+    </body>
+</html>
